@@ -1,0 +1,25 @@
+header {
+	background-color: #006BA8;
+}
+
+option.divider {
+	font-size: 0.2px;
+}
+option.divider.middle {
+	background: #c9c9c9;
+}
+
+/* En plus de Bootstrap */
+.w-15 {width: 15%!important;}
+.w-85 {width: 85%!important;}
+.my-04 {margin-top: 0.100rem!important;margin-bottom: 0.100rem!important;}
+.my-08 {margin-top: 0.200rem!important;margin-bottom: 0.200rem!important;}
+.my-09 {margin-top: 0.225rem!important;margin-bottom: 0.225rem!important;}
+
+/* Tableau spécial page mobilites */
+table .no-margin {
+	margin-bottom: 0!important;
+}
+.no-border th, .no-border td {
+	border: 0!important;
+}
